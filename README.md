@@ -1,15 +1,6 @@
-Background and Purpose:
-The data analysis project uses data from 1000 students across various demographic groups and academic backgrounds.
-The dataset includes information such as age, gender, year in school, major, monthly income, financial aid received, and expenses in different spending categories.
-Spending categories include tuition, housing, food, transportation, books & supplies, entertainment, personal care, technology, health & wellness, and miscellaneous expenses.
+The objective of this project was to identify how factors such as study habits, extracurricular commitments, attendance, and time allocation influence outcomes, with the broader goal of enhancing educational strategies and supporting student success. Our analysis focused on solving the real-world challenge of time management, offering insights that can help educators, administrators, and students make more informed decisions. This work has practical applications in schools and universities, with use cases such as predicting academic success and providing tailored strategies for improvement.
 
-The Purpose of this analysis is to analyze student spending habits to determine levels of financial literacy and to determine what factors may influence their financial health and budgeting strategies. Through key demographic and statistical metrics, this analysis can assist financial planners, lending institutions and loan officers to better assess the needs and risk of student borrowers.
+Using Python and Tableau, we cleaned and analyzed a structured dataset (sourced from Kaggle) through predictive modeling techniques including decision trees and random forests. The methodology included careful preprocessing, validation, and a detailed project plan to ensure the analysis was both robust and replicable. The expected outcome was a clear identification of which attributes most strongly influence exam performance, as well as actionable time management strategies. 
 
+Results were presented to the Executive Board of the Blue Hen Data Analytics Club in the form of visualizations and a PowerPoint presentation, with recommendations designed to help students improve their academic outcomes through better study habits, attendance, and resource utilization.
 
-Tools and Techniques:
-Python, Jupyter Notebook/Google Colab, and Tableau.
-
-Dataset:
-Student Performance factors dataset from Kaggle.
-
-    
