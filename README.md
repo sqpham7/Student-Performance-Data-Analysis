@@ -9,8 +9,8 @@ educational strategies and support student success.
 - How would the results of this analysis impact decision-making?
 The result of this analysis will provide insights for educators, administrators, and students. By identifying effective time management strategies and other correlating attributes, decision-makers can develop targeted strategies and resources.
 Context and Situation:
-  In what industry, business setting, or organization would this analysis be useful?
-- Schools & Universities
+-In what industry, business setting, or organization would this analysis be useful?
+  Schools & Universities
 - What is the potential use case for this analysis? (e.g., predicting customer churn, forecasting sales, optimizing inventory)
 Predicting academic success.
 - How will the insights from this analysis help solve a real-world problem?
