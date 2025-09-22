@@ -1,5 +1,5 @@
-Description:
 This project aims to identify the key attributes that correlate with high academic performance, particularly in terms of exam scores.
+
 Objective/Purpose:
 - What is the main goal of the analysis?
   By analyzing various factors, we hope to uncover insights that can enhance
