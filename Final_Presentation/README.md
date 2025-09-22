@@ -1,1 +1,1 @@
-
+As Project Manager, I led a team in analyzing student academic performance through data cleaning, exploratory analysis, and machine learning (Random Forests, Decision Trees). We identified key factors such as study hours, attendance, and tutoring sessions that strongly influence exam scores. We presented our findings and recommendations to the Executive Board of the Blue Hen Data Analytics Club.
