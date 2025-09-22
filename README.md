@@ -1,4 +1,3 @@
- Project Proposal Template - 
 Description:
 This project aims to identify the key attributes that correlate with high academic performance, particularly in terms of exam scores.
 Objective/Purpose:
